@@ -77,8 +77,7 @@ Structured Query Language contains the following four components in its process:
 
 #### A classic query engine allows data professionals and users to maintain non-SQL queries. The architecture of SQL is shown in the following diagram:
 
-![SQL-Process](https://static.javatpoint.com/sqlpages/images/sql-process.png)
-
+![sql-process](https://github.com/user-attachments/assets/4285cf51-5040-4aa7-b821-059f224e9a8d)
 
 ## Some SQL Commands
 
