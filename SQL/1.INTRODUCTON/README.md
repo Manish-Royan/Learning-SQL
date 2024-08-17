@@ -56,7 +56,7 @@ Nowadays, SQL is widely used in *data science* and *analytics*. Following are th
 ## Type of Database
 Databases can be categorized into several types based on their structure, the type of data they store, and the way they manage that data. Here are some of the most common types:
 
-[TypeofDataBase](https://media.licdn.com/dms/image/D5622AQHdH8jJeTfbOg/feedshare-shrink_800/0/1698412472519?e=2147483647&v=beta&t=ErtIF1j6IKaCZlDZGDDPdnEZWtnedpATN-kq89GHobk)
+![typeofdb](https://github.com/user-attachments/assets/1707e1bd-4d5c-418a-82bd-6ec1a5e17ae1)
 
 * ### RDBMS: 
     *   RDBMS stands for Relational Database Management System.
