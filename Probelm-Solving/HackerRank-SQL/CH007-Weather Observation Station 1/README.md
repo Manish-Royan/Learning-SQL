@@ -1,4 +1,4 @@
-# Challenge - Japanese Cities' Names
+# Challenge - Weather Observation Station 1
 
 ## *@Challenge*
 We have to query a list of *`CITY`* and *`STATE`* from the *`STATION`* table.
