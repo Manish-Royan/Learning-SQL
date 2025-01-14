@@ -73,7 +73,7 @@ Databases can be categorized into several types based on their structure, the ty
 
 ## ▸ What is Database Management System?
 A Database Management System (*DBMS*) is software that acts as an interface between users and databases. It allows users to create, manage, and manipulate databases efficiently. A DBMS ensures that data is organized, stored securely, and can be easily retrieved and modified when needed.
-
+![Screenshot 2025-01-14 214535](https://github.com/user-attachments/assets/3d896d5d-ad3b-47d5-b9f1-48ee307ddedf)
 **We can never access database directly**. **So, we uses DBMS as intermediate to interact with database**. That's why we use **SQL** for interacting with database as *DBMS*.
 
 ## # Process of SQL
