@@ -1,6 +1,6 @@
 # INTRODUCTION TO SQL
 
-## What is SQL?
+## ▸ What is SQL?
 SQL is a standard language for storing, manipulating and retrieving data in databases.
 
 It is a programming language used to interact with relation database.
@@ -12,7 +12,7 @@ SQL (*Structured Query Language*) is used to perform operations on the records s
 SQL is not a database system, but it is a query language.
 
 
-## What is the differene between SEQUEL and SQL?
+## ▸ What is the differene between SEQUEL and SQL?
 The terms "***SEQUEL***" and "***SQL***" are often used interchangeably, but there is a historical difference between the two:
 
 * ### SEQUEL:
@@ -25,7 +25,7 @@ The terms "***SEQUEL***" and "***SQL***" are often used interchangeably, but the
     *   Due to trademark issues with an existing company that owned the rights to the name "**SEQUEL**," *IBM was forced to change the name to **SQL***.
     *   Despite the name change, the pronunciation "sequel" is still commonly used today when referring to **SQL**.
 
-## Why SQL?
+## ▸ Why SQL?
 Nowadays, SQL is widely used in *data science* and *analytics*. Following are the reasons which explain why it is widely used:
 
 * The basic use of SQL for data professionals and SQL users is to insert, update, and delete the data from the relational database.
@@ -36,12 +36,14 @@ Nowadays, SQL is widely used in *data science* and *analytics*. Following are th
 * It allows you to define the data and modify that stored data in the relational database.
 * It also allows SQL users to set the permissions or constraints on table columns, views, and stored procedures.
 
-## Why SQL is Important?
+## ▸ Why SQL is Important?
 * **Standardized**: SQL is an ANSI and ISO standard, making it widely used and supported across various database systems.
 * **Declarative Language**: SQL focuses on what data you want to retrieve or manipulate, rather than how to do it, which makes it easier to use.
 * **Versatile**: SQL is used in many types of applications, from small web-based apps to large enterprise systems, due to its ability to handle large volumes of data efficiently.
 
-# What Can SQL do?
+##
+
+# ▸ What Can SQL do?
 * SQL can execute queries against a database.
 * SQL can retrieve data from a database.
 * SQL can insert records in a database.
@@ -53,7 +55,7 @@ Nowadays, SQL is widely used in *data science* and *analytics*. Following are th
 * SQL can create views in a database.
 * SQL can set permissions on tables, procedures, and views.
 
-## Type of Database
+## # Type of Database
 Databases can be categorized into several types based on their structure, the type of data they store, and the way they manage that data. Here are some of the most common types:
 
 ![typeofdb](https://github.com/user-attachments/assets/1707e1bd-4d5c-418a-82bd-6ec1a5e17ae1)
@@ -65,7 +67,7 @@ Databases can be categorized into several types based on their structure, the ty
 
     *   The data in RDBMS is stored in database objects called tables. A table is a collection of related data entries and it consists of columns and rows.
 
-## Process of SQL
+## # Process of SQL
 When we are executing the command of SQL on any Relational database management system, then the system automatically finds the best routine to carry out our request, and the SQL engine determines how to interpret that particular command.
 
 Structured Query Language contains the following four components in its process:
@@ -79,7 +81,7 @@ Structured Query Language contains the following four components in its process:
 
 ![sql-process](https://github.com/user-attachments/assets/4285cf51-5040-4aa7-b821-059f224e9a8d)
 
-## Some SQL Commands
+## ▸ Some SQL Commands
 
 The SQL commands help in creating and managing the database. The most common SQL commands which are highly used are mentioned below:
 
@@ -101,7 +103,7 @@ This command helps in deleting the entire table, table view, and other objects f
 ### 6.**INSERT** command:
 This command helps in creating the new database, new table, table view, and other objects of the database.    
 
-## SQL vs No-SQL
+## ▸ SQL vs No-SQL
 ![SQL-NoSQL](https://static.javatpoint.com/sqlpages/images/sqlvsnosql.png)
 
 | SQL  | No-SQL |
@@ -119,7 +121,7 @@ This command helps in creating the new database, new table, table view, and othe
 
 
 
-## Advantages of SQL
+## # Advantages of SQL
 SQL provides various advantages which make it more popular in the field of data science. It is a perfect query language which allows data professionals and users to communicate with the database. Following are the best advantages or benefits of Structured Query Language:
 
 1. **No programming needed**
@@ -146,7 +148,7 @@ SQL provides various advantages which make it more popular in the field of data 
 
     The SQL language also helps in making the multiple views of the database structure for the different database users.
 
-## Disadvantages of SQL
+## # Disadvantages of SQL
 With the advantages of SQL, it also has some disadvantages, which are as follows:
 
 1. **Cost**
