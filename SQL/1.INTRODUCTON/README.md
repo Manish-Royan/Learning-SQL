@@ -40,6 +40,7 @@ Nowadays, SQL is widely used in *data science* and *analytics*. Following are th
 * **Standardized**: SQL is an ANSI and ISO standard, making it widely used and supported across various database systems.
 * **Declarative Language**: SQL focuses on what data you want to retrieve or manipulate, rather than how to do it, which makes it easier to use.
 * **Versatile**: SQL is used in many types of applications, from small web-based apps to large enterprise systems, due to its ability to handle large volumes of data efficiently.
+* **CRUD Operation**: It is used to perform **CRUD operation (*CREATE*, *READ*, *UPDATE*, *DELETE*)** .
 
 ##
 
@@ -55,6 +56,9 @@ Nowadays, SQL is widely used in *data science* and *analytics*. Following are th
 * SQL can create views in a database.
 * SQL can set permissions on tables, procedures, and views.
 
+## ▸ What is database?
+A database is an organized collection of data that can be easily accessed, managed, and updated. It is designed to store data in a structured format, allowing users to retrieve and manipulate the data efficiently. 
+
 ## # Type of Database
 Databases can be categorized into several types based on their structure, the type of data they store, and the way they manage that data. Here are some of the most common types:
 
@@ -66,6 +70,11 @@ Databases can be categorized into several types based on their structure, the ty
     *   RDBMS is the basis for SQL, and for all modern database systems such as MS SQL Server, IBM DB2, Oracle, MySQL, and Microsoft Access.
 
     *   The data in RDBMS is stored in database objects called tables. A table is a collection of related data entries and it consists of columns and rows.
+
+## ▸ What is Database Management System?
+A Database Management System (*DBMS*) is software that acts as an interface between users and databases. It allows users to create, manage, and manipulate databases efficiently. A DBMS ensures that data is organized, stored securely, and can be easily retrieved and modified when needed.
+
+**We can never access database directly**. **So, we uses DBMS as intermediate to interact with database**. That's why we use **SQL** for interacting with database as *DBMS*.
 
 ## # Process of SQL
 When we are executing the command of SQL on any Relational database management system, then the system automatically finds the best routine to carry out our request, and the SQL engine determines how to interpret that particular command.
