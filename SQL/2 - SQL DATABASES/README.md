@@ -10,3 +10,5 @@ This relational model is an approach to manage data in a structured way (**using
 * **Columns**: Columns are vertical elements in a table. Each column in a table holds specific attribute information, and column properties such as column name and data types (*Integer*, *Char*, *String*, etc).
 
 * **Rows**: Rows are horizontal elements in a table and users can add data or retrieve by executing SQL queries.
+
+## What is database?
