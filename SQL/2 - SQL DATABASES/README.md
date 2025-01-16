@@ -12,3 +12,5 @@ This relational model is an approach to manage data in a structured way (**using
 * **Rows**: Rows are horizontal elements in a table and users can add data or retrieve by executing SQL queries.
 
 ## What is database?
+
+## SQL 
