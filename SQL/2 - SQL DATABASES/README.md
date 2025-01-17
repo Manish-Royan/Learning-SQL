@@ -16,3 +16,10 @@ A SQL database can contains multiples tables with inter-related data being store
 * **Columns**: Columns are vertical elements in a table. Each column in a table holds specific attribute information, and column properties such as column name and data types (*Integer*, *Char*, *String*, etc).
 
 * **Rows**: Rows are horizontal elements in a table and users can add data or retrieve by executing SQL queries.
+
+## ▸ What is a Table in a Database? [Source: ![geeksforgeeks](https://www.geeksforgeeks.org/components-of-table-in-database)]
+A table is a collection of related data in an organized manner in the form of rows and columns. It is an organized arrangement of data and information in tabular form containing rows and columns, making it easier to understand and compare data.
+
+* Here is the pictorial representation of the table and its different components containing the data about different students that is ID, name, Age, and course.
+
+![Table From GreekForGreek](https://github.com/user-attachments/assets/f16a7307-9842-40e2-a013-f757527e4560)
